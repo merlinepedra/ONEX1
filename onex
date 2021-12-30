@@ -808,7 +808,7 @@ about() {
   clear
   echo "$logo"
   echo " ${yellow}Onex ${red} v0.1${nc}"
-  echo " Onex is a library of all"
+  echo " Onex is a library of"
   echo " hacking tools for termux"
   echo " and other linux distribution.\n"
   echo " ${red}Warning:${nc}"

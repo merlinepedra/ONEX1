@@ -7,7 +7,6 @@ Androspy|Androspy|null|https://github.com/TunisianEagles/Androspy.git|git|git
 AutoPixieWps|AutoPixieWps|null|https://github.com/nxxxu/AutoPixieWps.git|git|python,git
 Automater|TekDefense-Automater|information_gathering|https://github.com/1aN0rmus/TekDefense-Automater.git|git|python,git
 Auxscan|Auxscan|null|https://github.com/Gameye98/Auxscan.git|git|python,git
-BAF|BAF|null|https://github.com/engMaher/BAF.git|git|python,git
 BadMod|BadMod|null|https://github.com/MrSqar-Ye/BadMod.git|git|php,git
 BeeLogger|BeeLogger|null|https://github.com/4w4k3/BeeLogger.git|git|python,git
 Black-Hydra|Black-Hydra|null|https://github.com/Gameye98/Black-Hydra.git|git|python,git
@@ -224,7 +223,6 @@ kickthemout|kickthemout|wireless_testing|https://github.com/k4m4/kickthemout.git
 killchain|killchain|null|https://github.com/ruped24/killchain.git|git|python,git
 killerbee|killerbee|wireless_testing|https://github.com/riverloopsec/killerbee.git|git|python,clang,gcc,g++,git
 killshot|killshot|null|https://github.com/bahaabdelwahed/killshot.git|git|ruby,git
-koadic|koadic|null|https://github.com/zerosum0x0/koadic.git|git|python,git
 kwetza|kwetza|null|https://github.com/sensepost/kwetza.git|git|python,git
 leviathan|leviathan|null|https://github.com/tearsecurity/leviathan.git|git|python,git
 lscript|lscript|null|https://github.com/arismelachroinos/lscript.git|git|git
@@ -316,7 +314,6 @@ trackout|trackout|information_gathering,ip_tracking|https://github.com/abaykan/t
 trape|trape|ip_tracking|https://github.com/boxug/trape.git|git|python,git
 trojanizer|trojanizer|null|https://github.com/r00t-3xp10it/trojanizer.git|git|git
 txtool|txtool|exploitation_tools|https://github.com/kuburan/txtool.git|git|python,git
-uidsploit|uidsploit|null|https://github.com/siruidops/uidsploit.git|git|git
 volatility|volatility|forensics_tools|https://github.com/volatilityfoundation/volatility.git|git|python,git
 w3af|w3af|web_hacking|https://github.com/andresriancho/w3af.git|git|python,git
 w3m|w3m|package|null|package_manager|null
@@ -370,7 +367,6 @@ katoolin|katooling|null|https://github.com/LionSec/katoolin.git|git|python2,git
 SARA|SARA|null|https://github.com/termuxhackers-id/SARA.git|git|python,git
 zphisher|zphisher|information_gathering|https://github.com/htr-tech/zphisher.git|git|php,nodejs,git
 check-ip|check-ip|information_gathering|https://github.com/1RaY-1/check-ip.git|git|gcc,git
-Mr-DDos|Mr-DDos|ddos|https://github.com/OnlineHacKing/Mr-DDos.git|git|python2,perl,git
 MHDDoS|MHDDoS|ddos|https://github.com/MHProDev/MHDDoS.git|git|python,git
 nexphisher|nexphisher|information_gathering|https://github.com/htr-tech/nexphisher.git|git|git,php,curl
 blackeye|blackeye|null|https://github.com/An0nUD4Y/blackeye.git|git|wget,unzip,curl,php,git
